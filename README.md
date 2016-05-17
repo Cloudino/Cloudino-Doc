@@ -1,1 +1,2 @@
-# Cloudino-Doc
+Welcome to Cloudino Documentation!
+===================

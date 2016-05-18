@@ -17,7 +17,9 @@ The WiFi Cloud Connector is not an Arduino shield, is an other processor working
 
 You can find more information about Cloudino Wifi Connector [here](https://github.com/Cloudino/Cloudino-Doc/wiki/Cloudino-WiFi-Connector)
 
-If you want to make your own Cloudino Module you can start with [Make your first Cloudino](https://github.com/Cloudino/Cloudino-Doc/wiki/Make-your-first-Cloudino)
+If you want to make your own Cloudino Module you can start with:
+* [Cloudino Connector Squema](https://github.com/Cloudino/Cloudino-Doc/wiki/Cloudino-WiFi-Connecto-Schema)
+* [Make your first Cloudino](https://github.com/Cloudino/Cloudino-Doc/wiki/Make-your-first-Cloudino)
 
 ## Cloudino with Arduino
 

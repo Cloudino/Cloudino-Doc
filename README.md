@@ -22,8 +22,27 @@ If you want to make your own Cloudino Module you can start with:
 * [Make your first Cloudino](https://github.com/Cloudino/Cloudino-Doc/wiki/Make-your-first-Cloudino)
 
 ## Cloudino with Arduino
-* [Conenction Squema](https://github.com/Cloudino/Cloudino-Doc/wiki/Cloudino-with-Arduino-Connection-Squema)
-* [Arduino Library](https://github.com/Cloudino/Cloudino-Doc/wiki/Cloudino-Arduino-Library)
+
+![Arduino_connection](https://github.com/Cloudino/Cloudino-Doc/raw/master/Cloudino_Arduino_Connection.png)
+
+You can find more information about Arduino Connection Squema [here](https://github.com/Cloudino/Cloudino-Doc/wiki/Cloudino-with-Arduino-Connection-Squema)
+
+### Supported Devices
+* The Arduino Uno
+* Arduino Duemilanove or Diecimila
+* Arduino Nano
+* ATmega1280
+* Arduino Mini
+* Arduino Fio
+* Arduino BT
+* LilyPad Arduino
+* Arduino Pro or Pro Mini
+* Arduino NG or older
+
+### Arduino library
+
+* [Howto Arduino Library](https://github.com/Cloudino/Cloudino-Doc/wiki/Cloudino-Arduino-Library)
+* [Github Arduino Library](https://github.com/Cloudino/Cloudino-ArduinoLib)
 
 ## Cloudino with Javascript
 CloudinoJS is a JavaScript implementation por Cloudino Platform

@@ -41,7 +41,7 @@ You can find more information about Arduino Connection Squema [here](https://git
 
 ### Arduino library
 
-* [Howto Arduino Library](https://github.com/Cloudino/Cloudino-Doc/wiki/Cloudino-Arduino-Library)
+* [Cloudino Library for Arduino](https://github.com/Cloudino/Cloudino-Doc/wiki/Cloudino-Library-for-Arduino)
 * [Github Arduino Library](https://github.com/Cloudino/Cloudino-ArduinoLib)
 
 ## Cloudino with Javascript

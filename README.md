@@ -1,6 +1,12 @@
 Welcome to Cloudino Documentation!
 ===================
+
+
+![Cloudino Logo](https://github.com/Cloudino/Cloudino-Doc/raw/master/Cloudino_logo.png)
+
 Cloudino is a Full Stack Internet of Things Platform, Open Source and Open Hardware, that allows the development and instrumentation of Internet of the Things solutions in a simple and transparent way
+
+![Cloudino Characteristics](https://github.com/Cloudino/Cloudino-Doc/raw/master/Cloudino_characteristics.png)
 
 Cloudino is developed and maintained by INFOTEC (Public Research Center of CONACYT) as a Open Source and Open Hardware Platform
 

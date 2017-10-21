@@ -38,7 +38,13 @@ If you want to make your own Cloudino Module you can start with:
 * [Cloudino Connector Squema](https://github.com/Cloudino/Cloudino-Doc/wiki/Cloudino-WiFI-Connector-Schema)
 * [Make your first Cloudino](https://github.com/Cloudino/Cloudino-Doc/wiki/Make-your-first-Cloudino)
 
+## Cloudino Stand Along
+
 ## Cloudino with Arduino
+
+**Cloudino** can be work in **parallel with Arduino** using it like an **Arduino Cloud Programmer**.
+
+For this you only need to use tree ping from the Arduino (TX, TX , RST) and the additional (5V, GND)
 
 ![Arduino_connection](https://github.com/Cloudino/Cloudino-Doc/raw/master/Cloudino_Arduino_Connection.png)
 

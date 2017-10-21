@@ -20,10 +20,17 @@ The Cloudino Platform proposes to add a new IoT Chip (Cloudino WiFi Connector) t
 
 You can find more information about Cloudino Architecture [here](https://github.com/Cloudino/Cloudino-Doc/wiki/Cloudino-Arquitecture)
 
-## Cloudino Wifi Connector
-The main component is the "WiFi Cloud Connector" which allows you to connect any Arduino to the Internet in simple way.
+## Cloudino WiFi Connector
 
-The WiFi Cloud Connector is not an Arduino shield, is an other processor working in parallel dedicated only to the network layer including the IoT protocols, leaving the Arduino dedicated to the connectivity with the sensors and actuators, while allowing reprogramming Arduino via WiFi or Cloud.
+The **Cloudino WiFi Connector**, which is a little, inexpensive and powerful IoT Chip, that **has preprogrammed** the most common IoT protocols like a **MQTT** or the **NGSI** for the Orion Context Broker, that allows everyone to start sending information to the Cloud without any additional programming effort.
+
+We can see the **Cloudino WiFi Connector** as an **IoT Router**, where let us configure using a simple web browser, the internet settings as well as the IoT protocol that the chip will use.
+
+An other important characteristic of the **Cloudino WiFi Connector** is that can **working in parallel with the Arduino**, the WCC can be used as an **Cloudino WiFi Connector**, I mean, we can reprogram the Arduino via Cloud.
+
+The **Cloudino WiFi Connector** working with Arduino is not like an Arduino shield, is an other processor working in parallel dedicated only to the network layer including the IoT protocols, leaving the Arduino dedicated to the connectivity with the sensors and actuators, while allowing reprogramming Arduino via WiFi or Cloud.
+
+The **Cloudino WiFi Connector** can be used as we mention as an **additional microcontroller dedicated to the network layer, working in parallel with actual microcontroller solutions like arduino**. But also can be used as a **stand alone device** for directly communicate the real-life objects to the internet.  
 
 You can find more information about Cloudino Wifi Connector [here](https://github.com/Cloudino/Cloudino-Doc/wiki/Cloudino-WiFi-Connector)
 

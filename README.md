@@ -46,7 +46,7 @@ If you want to make your own Cloudino Module you can start with:
 
 For this you only need to use tree ping from the Arduino (TX, TX , RST) and the additional (5V, GND)
 
-![Arduino_connection](https://github.com/Cloudino/Cloudino-Doc/raw/master/Cloudino_Arduino_Connection.png)
+![Arduino_connection](https://github.com/Cloudino/Cloudino-Doc/raw/master/Squema_Cloudino_Ard_V2.png)
 
 You can find more information about Arduino Connection Squema [here](https://github.com/Cloudino/Cloudino-Doc/wiki/Cloudino-with-Arduino-Connection-Squema)
 

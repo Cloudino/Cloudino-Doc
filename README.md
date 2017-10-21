@@ -14,6 +14,8 @@ Cloudino is developed and maintained by INFOTEC (Public Research Center of CONAC
 
 ## Cloudino Architecture
 
+The Cloudino Platform proposes to add a new IoT Chip (Cloudino WiFi Connector) that works like a configurable Network Layer between the sensors, actuators or existent hardware solutions like Arduino and the Cloud Services, for a simple and fast start to IoT World.
+
 ![Cloudino Architecture](https://github.com/Cloudino/Cloudino-Doc/raw/master/Cloudino_Achitecture.png)
 
 You can find more information about Cloudino Architecture [here](https://github.com/Cloudino/Cloudino-Doc/wiki/Cloudino-Arquitecture)

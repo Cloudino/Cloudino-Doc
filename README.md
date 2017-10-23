@@ -45,7 +45,9 @@ To start with the WiFi Cloud connector in Standalone mode you only need to conne
 
 ![Cloudino SA](https://github.com/Cloudino/Cloudino-Doc/raw/master/Squema_Cloudino_SA_9V.png)
 
-The WiFi Cloud Connector sets up a network of its own, allowing the user to connect directly to it for an easy and fast configuration through a web browser.
+The WiFi Cloud Connector sets up a network of its own, allowing the user to connect directly to it for an easy and fast configuration through a web browser [http://192.168.4.1](http://192.168.4.1)
+
+![Cloudino WCC](https://github.com/Cloudino/Cloudino-Doc/raw/master/Cloudino_WCC_Config_2.png)
 
 You can find more information about Cloudino WiFi Connector Configuration [here](https://github.com/Cloudino/Cloudino-Doc/wiki/Cloudino-WiFi-Connector-Configuration)
 
@@ -87,6 +89,8 @@ CloudinoJS is a JavaScript implementation por Cloudino Platform
 The use of the Cloudino Server is optional, however, it has many advantages over existing services, such as: Devices, Rules and User Contexts Manages, and Stream Data Storage.
 
 The Cloudino Server includes also Web IDE that allows devices to be programmed and debugged via Cloud and it also includes an easy "Blocks programming interface" for non-experimented programmers.
+
+![Cloudino Server](https://github.com/Cloudino/Cloudino-Doc/raw/master/Cloudino_Server.png)
 
 For start using the Cloudino Server visit [http://cloudino.io](http://cloudino.io)
 

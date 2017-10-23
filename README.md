@@ -81,3 +81,14 @@ CloudinoJS is a JavaScript implementation por Cloudino Platform
 
 * [CloudinoJS Examples](https://github.com/Cloudino/Cloudino-Doc/wiki/CloudinoJS-Examples)
 * [CloudinoJS Language Reference](https://github.com/Cloudino/Cloudino-Doc/wiki/CloudinoJS-Language-Reference)
+
+## Cloudino Server
+
+The use of the Cloudino Server is optional, however, it has many advantages over existing services, such as: Devices, Rules and User Contexts Manages, and Stream Data Storage.
+
+The Cloudino Server includes also Web IDE that allows devices to be programmed and debugged via Cloud and it also includes an easy "Blocks programming interface" for non-experimented programmers.
+
+For start using the Cloudino Server visit [http://cloudino.io](http://cloudino.io)
+
+
+

@@ -92,7 +92,7 @@ The Cloudino Server includes also Web IDE that allows devices to be programmed a
 
 ![Cloudino Server](https://github.com/Cloudino/Cloudino-Doc/raw/master/Cloudino_Server.png)
 
-For start using the Cloudino Server visit [http://cloudino.io](http://cloudino.io)
+For start using the Cloudino Server visit [http://cloudino.io/panel](http://cloudino.io/panel)
 
 
 

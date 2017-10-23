@@ -4,9 +4,8 @@ Welcome to Cloudino Documentation!
 <img src="https://github.com/Cloudino/Cloudino-Doc/raw/master/Cloudino_logo.png" width="300" align="left">
 
 Cloudino is a Full Stack Internet of Things Platform, Open Source and Open Hardware, that allows the development and instrumentation of Internet of the Things Solutions in a Simple and Transparent way.
- 
-<br>The Cloudino Platform was designed thinking in 4 main characteristics: small size, easy to use, low cost hardware and modularity. And with these characteristics, that the Cloudino platform allows to everyone the possibility to incorporate IoT technologies in their projects without any technical or economical limitations.
 
+The Cloudino Platform was designed thinking in 4 main characteristics: small size, easy to use, low cost hardware and modularity. And with these characteristics, that the Cloudino platform allows to everyone the possibility to incorporate IoT technologies in their projects without any technical or economical limitations.
 
 ![Cloudino Characteristics](https://github.com/Cloudino/Cloudino-Doc/raw/master/Cloudino_characteristics.png)
 

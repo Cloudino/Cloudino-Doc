@@ -24,7 +24,7 @@ You can find more information about Cloudino Architecture [here](https://github.
 
 The **Cloudino WiFi Connector**, which is a little, inexpensive and powerful IoT Chip, that **has preprogrammed** the most common IoT protocols like a **MQTT** or the **NGSI** for the Orion Context Broker, that allows everyone to start sending information to the Cloud without any additional programming effort.
 
-![Cloudino CC](https://github.com/Cloudino/Cloudino-Doc/raw/master/Cloudino.png)
+![Cloudino WCC](https://github.com/Cloudino/Cloudino-Doc/raw/master/Cloudino.png)
 
 We can see the **Cloudino WiFi Connector** as an **IoT Router**, where let us configure using a simple web browser, the internet settings as well as the IoT protocol that the chip will use.
 
@@ -42,7 +42,7 @@ If you want to make your own Cloudino Module you can start with:
 
 ## Cloudino Stand Along
 
-![Cloudino CC](https://github.com/Cloudino/Cloudino-Doc/raw/master/Cloudino_SA.png)
+![Cloudino SA](https://github.com/Cloudino/Cloudino-Doc/raw/master/Squema_Cloudino_SA_9V.png)
 
 ## Cloudino with Arduino
 

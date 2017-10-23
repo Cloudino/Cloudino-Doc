@@ -32,7 +32,7 @@ An other important characteristic of the **Cloudino WiFi Connector** is that can
 
 The **Cloudino WiFi Connector** working with Arduino is not like an Arduino shield, is an other processor working in parallel dedicated only to the network layer including the IoT protocols, leaving the Arduino dedicated to the connectivity with the sensors and actuators, while allowing reprogramming Arduino via WiFi or Cloud.
 
-The **Cloudino WiFi Connector** can be used as we mention as an **additional microcontroller dedicated to the network layer, working in parallel with actual microcontroller solutions like arduino**. But also can be used as a **stand alone device** for directly communicate the real-life objects to the internet.  
+The **Cloudino WiFi Connector** can be used as we mention as an **additional microcontroller dedicated to the network layer, working in parallel with actual microcontroller solutions like arduino**. But also can be used as a **Standalone device** for directly communicate the real-life objects to the internet.  
 
 You can find more information about Cloudino Wifi Connector [here](https://github.com/Cloudino/Cloudino-Doc/wiki/Cloudino-WiFi-Connector)
 
@@ -40,9 +40,15 @@ If you want to make your own Cloudino Module you can start with:
 * [Cloudino Connector Squema](https://github.com/Cloudino/Cloudino-Doc/wiki/Cloudino-WiFI-Connector-Schema)
 * [Make your first Cloudino](https://github.com/Cloudino/Cloudino-Doc/wiki/Make-your-first-Cloudino)
 
-## Cloudino Stand Along
+## Cloudino Standalone
+
+To start with the WiFi Cloud connector in Standalone mode you only need to connect it to a power supply between 4v and 15v.
 
 ![Cloudino SA](https://github.com/Cloudino/Cloudino-Doc/raw/master/Squema_Cloudino_SA_9V.png)
+
+The WiFi Cloud Connector sets up a network of its own, allowing the user to connect directly to it for an easy and fast configuration through a web browser.
+
+You can find more information about Cloudino WiFi Connector Configuration [here](https://github.com/Cloudino/Cloudino-Doc/wiki/Cloudino-WiFi-Connector-Configuration)
 
 ## Cloudino with Arduino
 

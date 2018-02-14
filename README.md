@@ -25,6 +25,31 @@ The **Cloudino WiFi Connector**, which is a little, inexpensive and powerful IoT
 
 ![Cloudino WCC](https://github.com/Cloudino/Cloudino-Doc/raw/master/Cloudino.png)
 
+### Technical Specifications
+Microcontroller |	ESP8266 ESP-12F
+--- | ---
+Operating Voltage |	3.3V
+Digital I/O Pins |	11
+Analog Input Pins |	1 (Max input: 1V)
+Clock Speed |	80MHz/160MHz
+Flash |	4M bytes
+Length | 25mm
+Width |	25.6mm
+Weight | 3g
+
+### Pins
+
+CWC Pin | Function | | CWC Pin | Function
+--- | --- | --- | --- | ---
+VCC | OUT 3.3V | | GPIO13 | IO, MOSI
+RST	| Reset | | GPIO12 | IO, MISO
+GND | Ground | | GPIO14 | IO, SCK
+GND | Ground | | GPIO16 | IO
+VIN	| IN 4V - 12V | | ADC | 10-bit Analog Input, Max 1V Input
+TXD	| TXD | | GPIO2	| IO, 10k Pull-Up, BUILTIN_LED
+RXD	| RXD | | GPIO0	| IO, 10k Pull-Up
+GPIO5	| IO, SCL | | GPIO4	| IO, SDA
+
 We can see the **Cloudino WiFi Connector** as an **IoT Router**, where let us configure using a simple web browser, the internet settings as well as the IoT protocol that the chip will use.
 
 An other important characteristic of the **Cloudino WiFi Connector** is that can **working in parallel with the Arduino**, the WCC can be used as an **Cloudino WiFi Connector**, I mean, we can reprogram the Arduino via Cloud.

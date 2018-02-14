@@ -26,7 +26,10 @@ The **Cloudino WiFi Connector**, which is a little, inexpensive and powerful IoT
 ![Cloudino WCC](https://github.com/Cloudino/Cloudino-Doc/raw/master/Cloudino.png)
 
 ### Technical Specifications
-Microcontroller |	ESP8266
+
+Caracteristic | Value
+--- | ---
+MCU |	ESP8266
 Operating Voltage |	4V - 12V
 Digital I/O Pins |	11
 Analog Input Pins |	1 (Max input: 1V)
